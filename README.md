@@ -11,25 +11,28 @@
 <br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&center=true&vCenter=true&width=980&lines=Distributed+ML+%7C+Genomics+%7C+Knowledge+Graphs+%7C+LLMs;Neuroscience+%7C+MEG+%2F+EEG+%7C+fMRI+%7C+sMRI+%7C+Signal+%26+Graph+Learning;Building+scalable+pipelines+from+raw+data+to+deployable+models"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&center=true&vCenter=true&width=980&lines=Distributed-Computing+Cloud+%7C+Neuroscience+%7C+Research+Testbeds+%7C+LLMs;Neuroscience+%7C+MEG+%2F+EEG+%7C+fMRI+%7C+sMRI+%7C+Signal+%26+Graph+Learning;Building+scalable+pipelines+from+raw+data+to+deployable+models"
   alt="Typing SVG"
 />
 
 </div>
 
----
-
 ## ⭐ Featured (Top Repos)
-<!-- Replace REPO_NAME_HERE with your actual most-starred/most-active repo(s). -->
+
 <p align="center">
+  <!-- ✅ Repo pin cards only work for GitHub *repositories*, not subfolders/paths -->
   <a href="https://github.com/xenificity/Sentiment_Analysis_using_LLMs">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xenificity&repo=Sentiment_Analysis_using_LLMs&theme=transparent" />
   </a>
-  <a href="https://github.com/MU-Data-Science/GPU-Variant-Calling">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MU-Data-Science&repo=GPU-Variant-Calling&theme=transparent" />
+
+  <!-- ✅ Your link points to a folder inside MU-Data-Science/GAF.
+       The correct pin must be for the repo itself: repo=GAF
+       We can keep the click-through link pointing to the folder. -->
+  <a href="https://github.com/MU-Data-Science/GAF/tree/main/GPU-Variant-Calling">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MU-Data-Science&repo=GAF&theme=transparent" />
   </a>
 </p>
----
+
 
 ## ⚡ About
 I’m a **Ph.D. candidate in Computer Science (University of Missouri–Columbia)** working on **scalable AI systems** across:

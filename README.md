@@ -18,20 +18,9 @@
 </div>
 
 ## ⭐ Featured (Top Repos)
-
-<p align="center">
-  <!-- ✅ Repo pin cards only work for GitHub *repositories*, not subfolders/paths -->
-  <a href="https://github.com/xenificity/DeepNeuroBench">
-    <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fsjra.com%2Fcan-you-see-a-brain-tumor-on-an-mri-scan%2F&ved=0CBYQjRxqFwoTCIDW4sTvxZQDFQAAAAAdAAAAABAF&opi=89978449" />
-  </a>
-
-  <!-- ✅ Your link points to a folder inside MU-Data-Science/GAF.
-       The correct pin must be for the repo itself: repo=GAF
-       We can keep the click-through link pointing to the folder. -->
-  <a href="https://github.com/MU-Data-Science/GAF/tree/main/GPU-Variant-Calling">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MU-Data-Science&repo=GAF&theme=transparent" />
-  </a>
-</p>
+- [**DeepNeuroBench**](https://github.com/xenificity/DeepNeuroBench)
+- [**GPU-Variant-Calling**](https://github.com/MU-Data-Science/GAF/tree/main/GPU-Variant-Calling)
+- [**Equine Lameness Predictor**](https://github.com/xenificity/equine-lameness-predictor)
 
 
 ## ⚡ About

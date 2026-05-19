@@ -1,7 +1,7 @@
 <div align="center">
 
 # Ajay Kumar
-### Ph.D. Candidate • Distributed ML Systems • Genomics/Bioinformatics • Neuroscience (MEG/EEG/fMRI) • LLMs
+### Ph.D. Candidate • Distributed Cloud Computing (HPC) • Agentic-AI • Neuroscience (MEG/EEG/fMRI) • Optimization • Scalability
 
 <a href="https://ajay-kumar.com/"><img src="https://img.shields.io/badge/Portfolio-ajay--kumar.com-111111?style=for-the-badge" /></a>
 <a href="mailto:ajay.kumar@missouri.edu"><img src="https://img.shields.io/badge/Email-ajay.kumar%40missouri.edu-111111?style=for-the-badge" /></a>
@@ -21,8 +21,8 @@
 
 <p align="center">
   <!-- ✅ Repo pin cards only work for GitHub *repositories*, not subfolders/paths -->
-  <a href="https://github.com/xenificity/Sentiment_Analysis_using_LLMs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xenificity&repo=Sentiment_Analysis_using_LLMs&theme=transparent" />
+  <a href="https://github.com/xenificity/DeepNeuroBench">
+    <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fsjra.com%2Fcan-you-see-a-brain-tumor-on-an-mri-scan%2F&ved=0CBYQjRxqFwoTCIDW4sTvxZQDFQAAAAAdAAAAABAF&opi=89978449" />
   </a>
 
   <!-- ✅ Your link points to a folder inside MU-Data-Science/GAF.

@@ -35,7 +35,7 @@ Built an **8,000+ member** technical community across [LinkedIn](https://linkedi
 
 | Degree | Institution | Period | GPA |
 |---|---|---|---|
-| **Ph.D. Computer Science** | University of Missouri–Columbia, USA | Aug 2022 – Dec 2026 (exp.) | **4.0 / 4.0** |
+| **Ph.D. Computer Science** | University of Missouri–Columbia, USA | Aug 2022 – May 2027 (exp.) | **4.0 / 4.0** |
 | M.S. Computer Science | Banaras Hindu University, India | Aug 2018 – 2020 | 8.23 / 10 |
 | B.S. Computer Science | University of Delhi, India | Aug 2015 – 2018 | 6.58 / 10 |
 

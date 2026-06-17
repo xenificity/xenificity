@@ -23,7 +23,7 @@
 
 ## ⚡ About
 
-Ph.D. candidate in Computer Science (GPA **4.0/4.0**, expected Dec 2026) at the **Scalable AI and Data Science (SDS) Lab, University of Missouri–Columbia**. **5.5+ years** spanning distributed ML systems, big data pipelines, genomics, neuroimaging, and LLMs.
+Ph.D. candidate in Computer Science (GPA **4.0/4.0**, expected May 2027) at the **Scalable AI and Data Science (SDS) Lab, University of Missouri–Columbia**. **5.5+ years** spanning distributed ML systems, big data pipelines, genomics, neuroimaging, and LLMs.
 
 **Thesis:** *Optimized scientific workflows on the FABRIC national research testbed, advancing large-scale distributed computing capabilities* — Advisor: Dr. Praveen Rao
 
